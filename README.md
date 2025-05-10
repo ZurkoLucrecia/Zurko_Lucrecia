@@ -24,7 +24,6 @@ It has a JavaScript object with personal and professional information. Then, a f
 ## What does it have?
 - It has a developer profile with name, age, profession, skills, location, and employment status.
 - It has a function that returns a complete self-introduction in English.
-- It uses basic JavaScript syntax like objects, arrays, functions, conditionals, and template strings.
 
 ## How often do you update it?
 This project is part of a course assignment, so it will be updated only if needed for future practices.
